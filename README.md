@@ -1,1 +1,1 @@
-# hello-world
+Aprendendo os conceitos básicos do GitHub.
